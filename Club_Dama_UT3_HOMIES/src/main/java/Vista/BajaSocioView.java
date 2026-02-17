@@ -1,7 +1,7 @@
 package Vista;
 
 import Servicio.ClubDeportivoService;
-import Persistencias.*;
+import Entidades.*;
 import javafx.geometry.Insets;
 import javafx.scene.control.*;
 import javafx.scene.layout.GridPane;

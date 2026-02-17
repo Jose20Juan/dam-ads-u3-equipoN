@@ -1,6 +1,6 @@
 package Vista;
 
-import Persistencias.*;
+import Entidades.*;
 import Servicio.ClubDeportivoService;
 import javafx.geometry.Insets;
 import javafx.scene.control.*;

@@ -1,11 +1,15 @@
 package Vista;
 
-import Persistencias.*;
+import Entidades.*;
 import Servicio.ClubDeportivoService;
 import javafx.geometry.Insets;
 import javafx.scene.control.*;
+import javafx.scene.control.Button;
+import javafx.scene.control.Label;
+import javafx.scene.control.TextField;
 import javafx.scene.layout.GridPane;
 
+import java.awt.*;
 import java.util.function.Consumer;
 
 public class SocioFormView extends GridPane {

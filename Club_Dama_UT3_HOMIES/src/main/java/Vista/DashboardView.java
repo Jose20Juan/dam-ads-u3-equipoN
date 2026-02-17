@@ -8,9 +8,9 @@ import javafx.scene.control.TableView;
 import javafx.scene.layout.BorderPane;
 
 import java.util.function.Consumer;
-import Persistencias.Socio;
-import Persistencias.Reserva;
-import Persistencias.Pista;
+import Entidades.Socio;
+import Entidades.Reserva;
+import Entidades.Pista;
 public class DashboardView extends BorderPane {
     public DashboardView(ClubDeportivoService club) {
         setPadding(new Insets(10));
